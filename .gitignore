@@ -1,0 +1,10 @@
+__pycache__/
+.venv
+
+program_prep/sonar_img_preprocessing/.venv
+program_prep/sonar_img_preprocessing/data/
+
+*.asv
+*.venv
+my-data/
+venv/
