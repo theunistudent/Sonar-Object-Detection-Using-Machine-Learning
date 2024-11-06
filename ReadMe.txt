@@ -32,7 +32,7 @@ The training loop uses a DataLoader to fetch random data batches. Models with se
 
 
 Metrics
-Performance metrics recorded at each epoch.
+Performance metrics recorded at each epoch and stored in CSV files.
 
 CNN Models and Architecture
 Initial models were binary classifiers for detecting man-made objects. Each CNN block in the architecture applies convolution, batch normalization, ReLU activation, and dropout layers. Multiple configurations were tested (e.g., 1-layer, 4-layer, 5-layer, and 18-layer CNNs).
