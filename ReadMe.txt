@@ -7,7 +7,9 @@ in the repo. Some of the the training data wased from the Shipwreck-Dataset:
 https://www.lirmm.fr/shipwreck-dataset/
 Nicolas Pecheux, Vincent Creuze, Frédéric Comby et Olivier Tempier, “Self-Calibration of a Sonar–Vision System for Underwater Vehicles: A New Method and a Dataset”, Sensors, 23(3), 1700, Feb. 3, 2023.
 
-A link to the primary data and thesis paper will be added soon.
+Access to the primary data can be requested on Zenodo:
+https://doi.org/10.5281/zenodo.14087657
+DOI: 10.5281/zenodo.14087657
 
 
 Requirments:
